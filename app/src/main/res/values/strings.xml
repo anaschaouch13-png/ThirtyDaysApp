@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 Days App</string>
+
+    <!-- Day 1 -->
+    <string name="day1_title">Introduction to Compose</string>
+    <string name="day1_desc">Jetpack Compose is Android’s modern toolkit for native UI development. It simplifies and accelerates UI development on Android.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Composable Functions</string>
+    <string name="day2_desc">Composable functions are the building blocks of Compose. They let you define your UI hierarchy programmatically.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Layouts: Row &amp; Column</string>
+    <string name="day3_desc">Use Row to place elements horizontally and Column to place them vertically. They are fundamental layout building blocks.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Modifiers</string>
+    <string name="day4_desc">Modifiers allow you to decorate or augment a composable. You can change size, padding, background, or add click actions.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">State in Compose</string>
+    <string name="day5_desc">State represents value that can change over time. Using remember and mutableStateOf triggers UI recomposition automatically.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">LazyColumn &amp; Lists</string>
+    <string name="day6_desc">LazyColumn is used to display vertically scrolling lists of items efficiently by only rendering visible items on screen.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Material Theme</string>
+    <string name="day7_desc">Material 3 provides dynamic coloring, typography, and shapes to give your app a cohesive and modern look and feel.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Images &amp; ContentScale</string>
+    <string name="day8_desc">Display images using the Image composable and control how they scale inside their bounds using ContentScale.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Card Composable</string>
+    <string name="day9_desc">Cards are surfaces that display content and actions on a single topic, providing elevation and rounded corners.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">Scaffold &amp; TopAppBar</string>
+    <string name="day10_desc">Scaffold provides a structure for your app\'s screen, managing slots for TopAppBar, BottomBar, and floating action buttons.</string>
+
+    <!-- Day 11 -->
+    <string name="day11_title">Animations</string>
+    <string name="day11_desc">Bring your UI to life with smooth transitions, animateContentSize, and state-based animations in Compose.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Button &amp; Clickables</string>
+    <string name="day12_desc">Handle user interactions easily using Button, IconButton, or by adding a clickable modifier to any surface.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Text Styling &amp; Typography</string>
+    <string name="day13_desc">Customize text size, color, weights, and font families using MaterialTheme typography styles.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Padding &amp; Spacing</string>
+    <string name="day14_desc">Control spatial distribution using padding modifiers and Spacer composables to avoid cluttered layouts.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">Alignment &amp; Arrangement</string>
+    <string name="day15_desc">Fine-tune child alignment inside rows and columns using Arrangement and Alignment parameters.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Resource Loading</string>
+    <string name="day16_desc">Load strings via stringResource(), images via painterResource(), and dimensions to support multiple screens.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">Debugging Compose</string>
+    <string name="day17_desc">Use Layout Inspector in Android Studio to inspect your Composable hierarchy and track recompositions.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">Accessibility</string>
+    <string name="day18_desc">Ensure your app is usable by everyone by providing meaningful content descriptions and proper touch target sizes.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Unit Testing</string>
+    <string name="day19_desc">Write unit tests for your ViewModels and business logic to ensure code reliability and prevent regressions.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">UI Testing</string>
+    <string name="day20_desc">Use Compose Testing library to test your UI components, simulate clicks, and verify screen states.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Navigation in Compose</string>
+    <string name="day21_desc">Navigate smoothly between multiple screens using the Jetpack Navigation component tailored for Compose.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">ViewModel Integration</string>
+    <string name="day22_desc">Separate UI state from business logic by holding screen state safely inside ViewModels.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">Flow &amp; Coroutines</string>
+    <string name="day23_desc">Handle asynchronous data streams reactively using Kotlin Flows and Coroutines inside your Android apps.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">Local Database (Room)</string>
+    <string name="day24_desc">Persist structured data locally on device storage securely using SQLite-based Room libraries.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">Networking (Retrofit)</string>
+    <string name="day25_desc">Fetch data from web APIs and JSON endpoints effortlessly using Retrofit and Moshi or Gson converters.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">Dependency Injection (Hilt)</string>
+    <string name="day26_desc">Manage dependencies cleanly and testably across your app architecture using Hilt and Dagger.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">WorkManager</string>
+    <string name="day27_desc">Execute background tasks reliably even if the app closes or the device restarts using WorkManager.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Material Design Components</string>
+    <string name="day28_desc">Leverage floating action buttons, snackbars, and bottom sheets out-of-the-box with Material 3.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Performance Optimization</string>
+    <string name="day29_desc">Avoid unnecessary recompositions, stabilize parameters, and optimize your Lazy lists for smooth 60fps performance.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">Publishing to Play Store</string>
+    <string name="day30_desc">Prepare your signed App Bundle (AAB), set up store listings, and publish your finished app to the Google Play Store.</string>
+</resources>
